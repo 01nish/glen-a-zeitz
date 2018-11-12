@@ -1,2 +1,2 @@
 # glen-a-zeitz
-law site
+This is test purpose
